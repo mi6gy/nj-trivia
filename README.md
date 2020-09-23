@@ -1,6 +1,6 @@
 # NJ TRIVIA
 
-[Try it](https://mi6gy.github.io/New-Jersey-Trivia/ "HERE").
+[Try it](https://mi6gy.github.io/nj-trivia/ "HERE").
 
 <p>Descrption:</p>
 This project is a trivia quiz with a New Jersey theme. 
@@ -36,4 +36,4 @@ This project is just for recreational use
 (mj@gmail.com)
 
 
-[Try it](https://mi6gy.github.io/New-Jersey-Trivia/ "HERE").
+[Try it](https://mi6gy.github.io/nj-trivia/ "HERE").
